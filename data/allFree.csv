@@ -1,198 +1,198 @@
-Country,FreedomintheWorld,IndexofEconomicFreedom,PressFreedomIndex,DemocracyIndex,FreedomintheWorld_ord,IndexofEconomicFreedom_ord,PressFreedomIndex_ord,DemocracyIndex_ord
-Afghanistan,1,,1,1,veryLow,,veryLow,veryLow
-Albania,3,3,3,4,medium,medium,medium,good
-Algeria,1,1,2,1,veryLow,veryLow,low,veryLow
-Andorra,5,,3,,veryGood,,medium,
-Angola,1,2,3,1,veryLow,low,medium,veryLow
-Antigua and Barbuda,5,,3,,veryGood,,medium,
-Argentina,5,2,4,4,veryGood,low,good,good
-Armenia,3,3,3,2,medium,medium,medium,low
-Australia,5,4,4,5,veryGood,good,good,veryGood
-Austria,5,4,4,5,veryGood,good,good,veryGood
-Azerbaijan,1,3,1,1,veryLow,medium,veryLow,veryLow
-Bahamas,5,3,,,veryGood,medium,,
-Bahrain,1,3,1,1,veryLow,medium,veryLow,veryLow
-Bangladesh,3,2,1,2,medium,low,veryLow,low
-Barbados,5,4,,,veryGood,good,,
-Belarus,1,2,1,1,veryLow,low,veryLow,veryLow
-Belgium,5,3,4,4,veryGood,medium,good,good
-Belize,5,2,4,,veryGood,low,good,
-Benin,3,3,2,2,medium,medium,low,low
-Bhutan,3,2,4,2,medium,low,good,low
-Bolivia,3,1,2,2,medium,veryLow,low,low
-Bosnia and Herzegovina,3,3,3,2,medium,medium,medium,low
-Botswana,5,3,3,4,veryGood,medium,medium,good
-Brazil,5,2,3,4,veryGood,low,medium,good
-Brunei,1,3,2,,veryLow,medium,low,
-Bulgaria,5,4,3,4,veryGood,good,medium,good
-Burkina Faso,3,2,4,1,medium,low,good,veryLow
-Burma,1,1,1,1,veryLow,veryLow,veryLow,veryLow
-Burundi,1,1,3,1,veryLow,veryLow,medium,veryLow
-Cambodia,1,2,2,1,veryLow,low,low,veryLow
-Cameroon,1,2,2,1,veryLow,low,low,veryLow
-Canada,5,4,4,5,veryGood,good,good,veryGood
-Cape Verde,5,3,4,4,veryGood,medium,good,good
-Central African Republic,1,1,3,1,veryLow,veryLow,medium,veryLow
-Chad,1,1,3,1,veryLow,veryLow,medium,veryLow
-Chile,5,4,3,4,veryGood,good,medium,good
-China,1,1,1,1,veryLow,veryLow,veryLow,veryLow
-Colombia,3,3,2,4,medium,medium,low,good
-Comoros,3,2,3,1,medium,low,medium,veryLow
-Costa Rica,5,3,5,5,veryGood,medium,veryGood,veryGood
-"Congo, Democratic Republic of the",1,1,2,1,veryLow,veryLow,low,veryLow
-"Congo, Republic of the",1,1,3,1,veryLow,veryLow,medium,veryLow
-Croatia,5,3,4,4,veryGood,medium,good,good
-Cuba,1,1,1,1,veryLow,veryLow,veryLow,veryLow
-Cyprus,5,4,3,4,veryGood,good,medium,good
-Czech Republic,5,4,4,4,veryGood,good,good,good
-Denmark,5,4,5,5,veryGood,good,veryGood,veryGood
-Djibouti,1,2,1,1,veryLow,low,veryLow,veryLow
-Dominica,5,2,3,,veryGood,low,medium,
-Dominican Republic,3,3,4,4,medium,medium,good,good
-East Timor,5,1,4,4,veryGood,veryLow,good,good
-Ecuador,5,2,3,2,veryGood,low,medium,low
-Egypt,1,1,1,1,veryLow,veryLow,veryLow,veryLow
-El Salvador,3,2,2,2,medium,low,low,low
-Equatorial Guinea,1,1,2,1,veryLow,veryLow,low,veryLow
-Eritrea,1,1,1,1,veryLow,veryLow,veryLow,veryLow
-Estonia,5,5,5,4,veryGood,veryGood,veryGood,good
-Eswatini,1,2,2,1,veryLow,low,low,veryLow
-Ethiopia,1,1,2,1,veryLow,veryLow,low,veryLow
-Fiji,3,2,3,2,medium,low,medium,low
-Finland,5,4,5,5,veryGood,good,veryGood,veryGood
-France,5,3,4,4,veryGood,medium,good,good
-Gabon,1,2,3,1,veryLow,low,medium,veryLow
-Gambia,3,2,3,2,medium,low,medium,low
-Georgia,3,4,3,2,medium,good,medium,low
-Germany,5,4,4,5,veryGood,good,good,veryGood
-Ghana,5,2,3,4,veryGood,low,medium,good
-Greece,5,3,3,4,veryGood,medium,medium,good
-Grenada,5,,3,,veryGood,,medium,
-Guatemala,3,3,2,2,medium,medium,low,low
-Guinea,1,2,3,1,veryLow,low,medium,veryLow
-Guinea-Bissau,3,1,3,1,medium,veryLow,medium,veryLow
-Guyana,5,2,4,4,veryGood,low,good,good
-Haiti,1,2,3,1,veryLow,low,medium,veryLow
-Honduras,3,2,1,2,medium,low,veryLow,low
-Hong Kong,3,,2,2,medium,,low,low
-Hungary,3,3,3,4,medium,medium,medium,good
-Iceland,5,4,4,5,veryGood,good,good,veryGood
-India,3,2,2,4,medium,low,low,good
-Indonesia,3,3,2,4,medium,medium,low,good
-Iran,1,1,1,1,veryLow,veryLow,veryLow,veryLow
-Iraq,1,,1,1,veryLow,,veryLow,veryLow
-Ireland,5,5,5,5,veryGood,veryGood,veryGood,veryGood
-Israel,5,3,3,4,veryGood,medium,medium,good
-Italy,5,3,3,4,veryGood,medium,medium,good
-Ivory Coast,3,3,4,2,medium,medium,good,low
-Jamaica,5,3,4,4,veryGood,medium,good,good
-Japan,5,3,3,5,veryGood,medium,medium,veryGood
-Jordan,1,3,2,1,veryLow,medium,low,veryLow
-Kazakhstan,1,3,2,1,veryLow,medium,low,veryLow
-Kenya,3,2,3,2,medium,low,medium,low
-Kiribati,5,2,,,veryGood,low,,
-North Korea,1,1,1,1,veryLow,veryLow,veryLow,veryLow
-South Korea,5,4,4,5,veryGood,good,good,veryGood
-Kosovo,3,3,3,,medium,medium,medium,
-Kuwait,3,2,1,1,medium,low,veryLow,veryLow
-Kyrgyzstan,1,2,3,1,veryLow,low,medium,veryLow
-Laos,1,1,1,1,veryLow,veryLow,veryLow,veryLow
-Latvia,5,4,4,4,veryGood,good,good,good
-Lebanon,3,1,2,1,medium,veryLow,low,veryLow
-Lesotho,3,1,3,4,medium,veryLow,medium,good
-Liberia,3,1,3,2,medium,veryLow,medium,low
-Libya,1,,2,1,veryLow,,low,veryLow
-Liechtenstein,5,,4,,veryGood,,good,
-Lithuania,5,4,4,4,veryGood,good,good,good
-Luxembourg,5,5,4,5,veryGood,veryGood,good,veryGood
-Madagascar,3,2,3,2,medium,low,medium,low
-Malawi,3,2,3,2,medium,low,medium,low
-Malaysia,3,3,2,4,medium,medium,low,good
-Maldives,3,1,3,,medium,veryLow,medium,
-Mali,1,2,2,1,veryLow,low,low,veryLow
-Malta,5,4,3,4,veryGood,good,medium,good
-Marshall Islands,5,,,,veryGood,,,
-Mauritania,3,2,3,2,medium,low,medium,low
-Mauritius,5,4,3,5,veryGood,good,medium,veryGood
-Mexico,3,3,2,2,medium,medium,low,low
-"Micronesia, Federated States of",5,3,,,veryGood,medium,,
-Moldova,3,3,4,4,medium,medium,good,good
-Monaco,5,,,,veryGood,,,
-Mongolia,5,3,3,4,veryGood,medium,medium,good
-Montenegro,3,2,3,4,medium,low,medium,good
-Morocco,3,2,2,2,medium,low,low,low
-Mozambique,3,2,2,1,medium,low,low,veryLow
-Namibia,5,2,4,4,veryGood,low,good,good
-Nauru,5,,,,veryGood,,,
-Nepal,3,1,3,2,medium,veryLow,medium,low
-Netherlands,5,4,4,5,veryGood,good,good,veryGood
-New Zealand,5,5,4,5,veryGood,veryGood,good,veryGood
-Nicaragua,1,2,1,1,veryLow,low,veryLow,veryLow
-Niger,3,2,3,1,medium,low,medium,veryLow
-Nigeria,3,2,2,2,medium,low,low,low
-North Macedonia,3,3,3,4,medium,medium,medium,good
-Norway,5,4,5,5,veryGood,good,veryGood,veryGood
-Oman,1,2,1,1,veryLow,low,veryLow,veryLow
-Pakistan,3,1,1,2,medium,veryLow,veryLow,low
-Palau,5,,,,veryGood,,,
-Palestine,1,,1,1,veryLow,,veryLow,veryLow
-Panama,5,3,3,4,veryGood,medium,medium,good
-Papua New Guinea,3,2,3,4,medium,low,medium,good
-Paraguay,3,3,3,2,medium,medium,medium,low
-Peru,5,3,3,4,veryGood,medium,medium,good
-Philippines,3,3,2,4,medium,medium,low,good
-Poland,5,3,3,4,veryGood,medium,medium,good
-Portugal,5,4,5,4,veryGood,good,veryGood,good
-Qatar,1,3,2,1,veryLow,medium,low,veryLow
-Romania,5,3,3,4,veryGood,medium,medium,good
-Russia,1,2,1,1,veryLow,low,veryLow,veryLow
-Rwanda,1,2,2,1,veryLow,low,low,veryLow
-Saint Kitts and Nevis,5,,3,,veryGood,,medium,
-Saint Lucia,5,3,3,,veryGood,medium,medium,
-Saint Vincent and the Grenadines,5,3,3,,veryGood,medium,medium,
-Samoa,5,3,4,,veryGood,medium,good,
-San Marino,5,,,,veryGood,,,
-São Tomé and Príncipe,5,3,,,veryGood,medium,,
-Saudi Arabia,1,2,1,1,veryLow,low,veryLow,veryLow
-Senegal,3,3,3,2,medium,medium,medium,low
-Serbia,3,3,3,4,medium,medium,medium,good
-Seychelles,5,3,4,,veryGood,medium,good,
-Sierra Leone,3,2,4,2,medium,low,good,low
-Singapore,3,5,2,4,medium,veryGood,low,good
-Slovakia,5,3,4,4,veryGood,medium,good,good
-Slovenia,5,4,3,4,veryGood,good,medium,good
-Solomon Islands,5,2,,,veryGood,low,,
-Somalia,1,,2,,veryLow,,low,
-South Africa,5,2,4,4,veryGood,low,good,good
-South Sudan,1,,2,,veryLow,,low,
-Spain,5,3,4,4,veryGood,medium,good,good
-Sri Lanka,3,2,2,4,medium,low,low,good
-Sudan,1,1,2,1,veryLow,veryLow,low,veryLow
-Suriname,5,1,3,4,veryGood,veryLow,medium,good
-Sweden,5,4,5,5,veryGood,good,veryGood,veryGood
-Switzerland,5,5,4,5,veryGood,veryGood,good,veryGood
-Syria,1,,1,1,veryLow,,veryLow,veryLow
-Taiwan,5,5,4,5,veryGood,veryGood,good,veryGood
-Tajikistan,1,1,2,1,veryLow,veryLow,low,veryLow
-Tanzania,3,2,2,2,medium,low,low,low
-Thailand,1,3,2,4,veryLow,medium,low,good
-Togo,3,2,3,1,medium,low,medium,veryLow
-Tonga,5,3,3,,veryGood,medium,medium,
-Trinidad and Tobago,5,2,4,4,veryGood,low,good,good
-Tunisia,3,2,3,2,medium,low,medium,low
-Turkey,1,2,2,2,veryLow,low,low,low
-Turkmenistan,1,1,1,1,veryLow,veryLow,veryLow,veryLow
-Tuvalu,5,,,,veryGood,,,
-Uganda,1,2,2,2,veryLow,low,low,low
-Ukraine,3,2,3,2,medium,low,medium,low
-United Arab Emirates,1,4,2,1,veryLow,good,low,veryLow
-United Kingdom,5,4,4,5,veryGood,good,good,veryGood
-United States,5,4,4,4,veryGood,good,good,good
-Uruguay,5,4,4,5,veryGood,good,good,veryGood
-Uzbekistan,1,2,2,1,veryLow,low,low,veryLow
-Vanuatu,5,3,,,veryGood,medium,,
-Venezuela,1,1,1,1,veryLow,veryLow,veryLow,veryLow
-Vietnam,1,3,1,1,veryLow,medium,veryLow,veryLow
-Yemen,1,,1,1,veryLow,,veryLow,veryLow
-Zambia,3,1,3,2,medium,veryLow,medium,low
-Zimbabwe,1,1,2,1,veryLow,veryLow,low,veryLow
+Country,Freedom,EconomicFreedom,PressFreedom,Democracy,FreedomScore,EconomicFreedomScore,PressFreedomScore,DemocracyScore,Freedom_ord,EconomicFreedom_ord,PressFreedom_ord,Democracy_ord
+Norway,5,4,5,5,100,76.9,95.18,9.81,veryGood,good,veryGood,veryGood
+Ireland,5,5,5,5,97,82,89.91,9.05,veryGood,veryGood,veryGood,veryGood
+Sweden,5,4,5,5,100,77.5,88.15,9.26,veryGood,good,veryGood,veryGood
+Finland,5,4,5,5,100,77.1,87.94,9.2,veryGood,good,veryGood,veryGood
+Denmark,5,4,5,5,97,77.6,89.48,9.15,veryGood,good,veryGood,veryGood
+Switzerland,5,5,4,5,96,83.8,84.4,8.83,veryGood,veryGood,good,veryGood
+New Zealand,5,4,4,5,99,78.9,84.23,9.25,veryGood,good,good,veryGood
+Netherlands,5,4,5,5,97,78,87,8.96,veryGood,good,veryGood,veryGood
+Luxembourg,5,4,4,5,97,78.4,81.98,8.68,veryGood,good,good,veryGood
+Estonia,5,4,5,4,94,78.6,85.31,7.84,veryGood,good,veryGood,good
+Canada,5,4,4,5,98,73.7,83.53,9.24,veryGood,good,good,veryGood
+Taiwan,5,5,4,5,94,80.7,75.54,8.94,veryGood,veryGood,good,veryGood
+Iceland,5,4,4,5,94,72.2,83.19,9.37,veryGood,good,good,veryGood
+Germany,5,4,4,5,94,73.7,81.91,8.67,veryGood,good,good,veryGood
+Portugal,5,3,4,4,96,69.5,84.6,7.9,veryGood,medium,good,good
+Australia,5,4,4,5,95,74.8,78.24,8.96,veryGood,good,good,veryGood
+Czech Republic,5,4,4,4,92,71.9,83.58,7.67,veryGood,good,good,good
+Lithuania,5,4,5,4,89,72.2,86.79,7.13,veryGood,good,veryGood,good
+Latvia,5,4,4,4,88,72.8,83.27,7.24,veryGood,good,good,good
+United Kingdom,5,3,4,5,93,69.9,78.51,8.54,veryGood,medium,good,veryGood
+Austria,5,4,4,5,93,71.1,77.3,8.16,veryGood,good,good,veryGood
+Slovakia,5,3,4,4,90,69,83.22,6.97,veryGood,medium,good,good
+Belgium,5,3,4,4,96,67.1,76.47,7.51,veryGood,medium,good,good
+Costa Rica,5,3,4,5,91,66.5,80.2,8.16,veryGood,medium,good,veryGood
+Uruguay,5,4,4,5,96,70.2,70.33,8.61,veryGood,good,good,veryGood
+Slovenia,5,3,4,4,95,68.5,70.59,7.54,veryGood,medium,good,good
+Cyprus,5,4,3,4,92,72.3,68.62,7.56,veryGood,good,medium,good
+France,5,3,4,4,89,63.6,78.72,7.99,veryGood,medium,good,good
+Spain,5,3,4,5,90,65,75.37,8.12,veryGood,medium,good,veryGood
+Japan,5,3,3,5,96,69.3,63.95,8.13,veryGood,medium,medium,veryGood
+South Korea,5,4,4,5,83,73.7,70.83,8.01,veryGood,good,good,veryGood
+Cabo Verde,5,3,4,,92,65.8,75.72,—,veryGood,medium,good,
+Chile,5,4,3,5,94,71.1,60.09,8.28,veryGood,good,medium,veryGood
+Samoa,5,3,4,,83,68.3,82.15,—,veryGood,medium,good,
+United States,5,4,4,4,83,70.6,71.22,7.92,veryGood,good,good,good
+Italy,5,3,4,4,90,62.3,72.05,7.74,veryGood,medium,good,good
+Jamaica,5,3,4,4,80,68.1,75.89,7.13,veryGood,medium,good,good
+Mauritius,5,4,3,5,85,70.6,65.56,8.14,veryGood,good,medium,veryGood
+Croatia,5,3,4,4,84,66.4,71.95,6.5,veryGood,medium,good,good
+Trinidad and Tobago,5,2,4,4,82,59.5,76.54,7.16,veryGood,low,good,good
+Malta,5,3,3,4,89,67.5,59.76,7.68,veryGood,medium,medium,good
+Poland,5,3,3,4,81,67.7,67.66,6.85,veryGood,medium,medium,good
+Romania,5,3,3,4,83,64.5,69.04,6.4,veryGood,medium,medium,good
+Namibia,5,2,4,4,77,57.7,80.91,6.52,veryGood,low,good,good
+South Africa,5,2,4,4,79,55.7,78.6,7.05,veryGood,low,good,good
+Bulgaria,5,3,3,4,79,69.3,62.98,6.71,veryGood,medium,medium,good
+Panama,5,3,3,4,83,63.8,63.67,7.18,veryGood,medium,medium,good
+Belize,5,2,4,,87,59.8,70.49,—,veryGood,low,good,
+Argentina,5,2,4,4,85,51,73.36,6.95,veryGood,low,good,good
+Seychelles,5,2,4,,79,59.5,75.71,—,veryGood,low,good,
+Saint Vincent and the Grenadines,5,3,3,,91,63.5,58.36,—,veryGood,medium,medium,
+Tonga,5,3,4,,81,60,71.29,—,veryGood,medium,good,
+North Macedonia,3,3,4,2,68,63.7,74.35,5.89,medium,medium,good,low
+Mongolia,5,3,3,4,84,61.7,59.33,6.48,veryGood,medium,medium,good
+Israel,5,3,3,4,77,68.9,57.57,7.84,veryGood,medium,medium,good
+Dominica,5,2,3,,93,59.7,58.36,—,veryGood,low,medium,
+Saint Lucia,5,3,3,,92,60.7,58.36,—,veryGood,medium,medium,
+Timor-Leste,5,1,4,4,72,47.2,84.49,7.06,veryGood,veryLow,good,good
+Ghana,5,2,3,4,80,58,65.93,6.5,veryGood,low,medium,good
+Botswana,5,3,3,4,72,64.9,64.61,7.62,veryGood,medium,medium,good
+Dominican Republic,3,3,4,4,68,62.6,71.88,6.32,medium,medium,good,good
+Montenegro,3,3,4,2,67,60.9,74.28,5.77,medium,medium,good,low
+Greece,5,2,3,4,86,56.9,55.2,7.39,veryGood,low,medium,good
+Moldova,3,2,4,2,62,58.5,77.62,5.78,medium,low,good,low
+Guyana,5,2,3,4,73,56.9,67.5,6.01,veryGood,low,medium,good
+Suriname,5,1,4,4,79,46.1,70.62,6.82,veryGood,veryLow,good,good
+Hungary,3,3,3,4,66,64.1,62.96,6.56,medium,medium,medium,good
+Albania,3,3,3,4,67,65.3,57.86,6.08,medium,medium,medium,good
+Peru,5,3,2,4,70,66.5,52.74,6.53,veryGood,medium,low,good
+Armenia,3,3,4,2,54,65.1,70.61,5.35,medium,medium,good,low
+Georgia,3,3,3,2,58,68.7,61.69,5.31,medium,medium,medium,low
+Ecuador,5,2,3,4,70,55,60.51,6.13,veryGood,low,medium,good
+Brazil,5,2,3,4,72,53.5,58.67,6.92,veryGood,low,medium,good
+Malaysia,3,3,3,4,53,67.3,62.83,7.19,medium,medium,medium,good
+Kosovo,3,3,3,,60,60.7,68.38,—,medium,medium,medium,
+Serbia,3,3,3,4,60,63.5,59.16,6.22,medium,medium,medium,good
+Lesotho,3,2,3,4,66,51.6,64.29,6.3,medium,low,medium,good
+Paraguay,3,3,3,4,65,61,55.96,6.18,medium,medium,medium,good
+Senegal,3,2,3,2,68,57.7,55.82,5.67,medium,low,medium,low
+Papua New Guinea,3,2,3,4,61,51.7,67.62,6.1,medium,low,medium,good
+Colombia,5,3,2,4,70,63.1,45.23,7.04,veryGood,medium,low,good
+Bhutan,3,2,3,2,61,59,59.25,5.71,medium,low,medium,low
+Malawi,3,2,3,2,66,52.8,60.34,5.74,medium,low,medium,low
+Singapore,3,5,2,4,47,83.9,47.88,6.03,medium,veryGood,low,good
+Indonesia,3,3,2,4,58,63.5,54.83,6.3,medium,medium,low,good
+Côte d'Ivoire,3,3,3,2,49,60.4,68.83,4.11,medium,medium,medium,low
+Madagascar,3,2,3,2,61,58.9,56.66,5.7,medium,low,medium,low
+Fiji,3,2,3,2,59,58,59.27,5.72,medium,low,medium,low
+The Gambia,3,2,4,2,48,57.9,71.06,4.49,medium,low,good,low
+Sierra Leone,3,2,3,2,63,50.2,62.55,4.86,medium,low,medium,low
+Bosnia and Herzegovina,3,3,3,,52,62.9,65.43,—,medium,medium,medium,
+Liberia,3,1,3,2,60,49.6,64.34,5.32,medium,veryLow,medium,low
+Mexico,3,3,2,4,60,63.2,47.98,6.07,medium,medium,low,good
+Benin,3,2,2,2,59,59.8,52.44,4.58,medium,low,low,low
+Niger,3,2,3,1,51,53.7,66.84,3.29,medium,low,medium,veryLow
+Liechtenstein,5,,4,,90,—,84.47,—,veryGood,,good,
+Nepal,3,2,3,2,58,51.4,57.89,5.22,medium,low,medium,low
+Philippines,3,2,2,4,58,59.3,46.21,6.56,medium,low,low,good
+El Salvador,3,2,2,2,56,56,51.36,5.9,medium,low,low,low
+Andorra,5,,4,,93,—,75.05,—,veryGood,,good,
+Zambia,3,1,3,2,54,47.8,59.41,4.86,medium,veryLow,medium,low
+Tunisia,3,2,2,4,56,52.9,50.11,6.59,medium,low,low,good
+Bolivia,3,1,2,2,66,43.4,51.09,5.08,medium,veryLow,low,low
+Guatemala,3,3,2,2,49,62.7,48.12,4.97,medium,medium,low,low
+Barbados,5,3,,,94,69.8,—,—,veryGood,medium,,
+Togo,3,2,3,1,42,55.3,63.06,2.8,medium,low,medium,veryLow
+India,3,2,1,4,66,52.9,36.62,6.61,medium,low,veryLow,good
+Comoros,3,2,3,1,42,53.5,62.25,3.09,medium,low,medium,veryLow
+Kenya,3,2,2,2,52,52.5,51.15,5.05,medium,low,low,low
+Sri Lanka,3,2,2,4,54,52.2,45.85,6.14,medium,low,low,good
+Burkina Faso,1,2,3,1,30,56.2,67.64,3.73,veryLow,low,medium,veryLow
+Mozambique,3,2,3,1,45,52.5,56.13,3.51,medium,low,medium,veryLow
+Mauritania,3,2,3,1,36,55.3,59.45,3.92,medium,low,medium,veryLow
+Federated States of Micronesia,5,3,,,92,62.6,—,—,veryGood,medium,,
+The Bahamas,5,3,,,91,62.6,—,—,veryGood,medium,,
+Qatar,1,3,3,1,25,68.6,55.28,3.24,veryLow,medium,medium,veryLow
+Thailand,1,3,3,4,30,60.6,55.24,6.04,veryLow,medium,medium,good
+Guinea-Bissau,3,1,3,1,43,44.6,61.57,2.63,medium,veryLow,medium,veryLow
+Nigeria,3,2,2,2,43,53.9,49.56,4.1,medium,low,low,low
+Kiribati,5,2,,,91,58.8,—,—,veryGood,low,,
+Grenada,5,,3,,89,—,58.36,—,veryGood,,medium,
+Saint Kitts and Nevis,5,,3,,89,—,58.36,—,veryGood,,medium,
+Guinea,1,2,3,1,30,53.2,59.51,3.08,veryLow,low,medium,veryLow
+São Tomé and Príncipe,5,3,,,84,61.5,—,—,veryGood,medium,,
+Tanzania,3,3,2,2,36,60,44.02,5.1,medium,medium,low,low
+Honduras,3,2,1,2,48,58.7,32.65,5.36,medium,low,veryLow,low
+Maldives,3,1,3,,41,46.6,56.93,—,medium,veryLow,medium,
+Morocco,3,2,2,2,37,58.4,43.69,5.04,medium,low,low,low
+Vanuatu,5,3,,,82,62.1,—,—,veryGood,medium,,
+Antigua and Barbuda,5,,3,,85,—,58.36,—,veryGood,,medium,
+Lebanon,3,1,2,2,43,45.6,50.46,4.16,medium,veryLow,low,low
+Haiti,1,1,3,2,31,49.9,57.38,4.22,veryLow,veryLow,medium,low
+Mali,1,2,2,1,29,54.5,52.29,3.93,veryLow,low,low,veryLow
+Jordan,1,2,2,1,33,58.8,42.79,3.62,veryLow,low,low,veryLow
+Brunei,1,3,2,,28,65.7,44.2,—,veryLow,medium,low,
+Gabon,1,2,3,1,20,56.1,58.12,3.54,veryLow,low,medium,veryLow
+Uganda,1,2,2,2,35,51.4,46.08,4.94,veryLow,low,low,low
+Kyrgyzstan,1,2,2,2,27,55.8,49.91,4.21,veryLow,low,low,low
+Kuwait,3,2,1,1,37,56.7,38.84,3.8,medium,low,veryLow,veryLow
+Bangladesh,3,2,1,2,40,54.4,35.31,5.99,medium,low,veryLow,low
+United Arab Emirates,1,4,2,1,18,70.9,42.99,2.7,veryLow,good,low,veryLow
+Kazakhstan,1,3,2,1,23,62.1,45.87,3.14,veryLow,medium,low,veryLow
+Angola,1,2,2,1,28,53,48.3,3.66,veryLow,low,low,veryLow
+Solomon Islands,5,2,,,76,56.9,—,—,veryGood,low,,
+Pakistan,3,1,1,2,37,49.4,39.95,4.31,medium,veryLow,veryLow,low
+Republic of the Congo,1,1,3,1,17,48.1,60.42,3.11,veryLow,veryLow,medium,veryLow
+Eswatini,1,2,2,1,17,54.9,52.66,3.08,veryLow,low,low,veryLow
+Türkiye,1,2,1,2,32,56.9,33.97,4.48,veryLow,low,veryLow,low
+Cambodia,1,2,2,1,24,56.5,42.02,3.1,veryLow,low,low,veryLow
+Rwanda,1,2,2,1,23,52.2,46.58,3.1,veryLow,low,low,veryLow
+Algeria,1,1,2,1,32,43.2,45.74,3.77,veryLow,veryLow,low,veryLow
+Oman,1,2,1,1,24,58.5,37.87,3,veryLow,low,veryLow,veryLow
+Chad,1,2,2,1,15,52,53.73,1.55,veryLow,low,low,veryLow
+Ethiopia,1,1,2,1,21,48.3,47.7,3.38,veryLow,veryLow,low,veryLow
+Djibouti,1,2,1,1,24,56.1,35.87,2.71,veryLow,low,veryLow,veryLow
+Zimbabwe,1,1,2,1,28,39,48.17,3.16,veryLow,veryLow,low,veryLow
+Ukraine,3,,3,2,50,—,61.19,5.81,medium,,medium,low
+Democratic Republic of the Congo,1,1,2,1,19,47.9,48.55,1.13,veryLow,veryLow,low,veryLow
+Uzbekistan,1,2,2,1,12,56.5,45.73,2.12,veryLow,low,low,veryLow
+Cameroon,1,2,2,1,15,51.9,45.58,2.77,veryLow,low,low,veryLow
+Nicaragua,1,2,1,1,19,54.9,37.09,3.6,veryLow,low,veryLow,veryLow
+Azerbaijan,1,3,1,1,9,61.4,39.93,2.68,veryLow,medium,veryLow,veryLow
+Burundi,1,1,2,1,14,41.9,52.14,2.14,veryLow,veryLow,low,veryLow
+Central African Republic,1,1,3,1,7,43.8,57.56,1.32,veryLow,veryLow,medium,veryLow
+Vietnam,1,3,1,1,19,61.8,24.58,2.94,veryLow,medium,veryLow,veryLow
+Russia,1,2,1,1,16,53.8,34.77,3.31,veryLow,low,veryLow,veryLow
+Bahrain,1,3,1,1,12,62.5,30.59,2.49,veryLow,medium,veryLow,veryLow
+Equatorial Guinea,1,1,2,1,5,48.3,50.35,1.92,veryLow,veryLow,low,veryLow
+Egypt,1,1,1,1,18,49.6,33.37,2.93,veryLow,veryLow,veryLow,veryLow
+Laos,1,2,1,1,13,50.3,36.66,1.77,veryLow,low,veryLow,veryLow
+Saudi Arabia,1,2,1,1,8,58.3,32.43,2.08,veryLow,low,veryLow,veryLow
+Belarus,1,2,1,1,8,51,37.17,2.59,veryLow,low,veryLow,veryLow
+Tajikistan,1,2,1,1,7,50.6,39.06,1.94,veryLow,low,veryLow,veryLow
+San Marino,5,,,,97,—,—,—,veryGood,,,
+Marshall Islands,5,,,,93,—,—,—,veryGood,,,
+Tuvalu,5,,,,93,—,—,—,veryGood,,,
+Hong Kong,3,,2,2,42,—,44.86,5.57,medium,,low,low
+Palau,5,,,,92,—,—,—,veryGood,,,
+Burma,1,1,1,1,9,46.5,28.26,3.04,veryLow,veryLow,veryLow,veryLow
+Sudan,1,1,2,1,10,32.8,40.83,2.54,veryLow,veryLow,low,veryLow
+Monaco,5,,,,84,—,—,—,veryGood,,,
+China,1,1,1,1,9,48.3,22.97,2.27,veryLow,veryLow,veryLow,veryLow
+Iran,1,1,1,1,12,42.2,24.81,2.2,veryLow,veryLow,veryLow,veryLow
+Venezuela,1,1,1,1,15,25.8,36.99,2.76,veryLow,veryLow,veryLow,veryLow
+Nauru,5,,,,77,—,—,—,veryGood,,,
+Turkmenistan,1,1,1,1,2,46.5,25.82,1.72,veryLow,veryLow,veryLow,veryLow
+Eritrea,1,1,1,1,3,39.5,27.86,2.15,veryLow,veryLow,veryLow,veryLow
+Cuba,1,1,1,1,12,24.3,29,2.84,veryLow,veryLow,veryLow,veryLow
+Iraq,1,,1,1,29,—,32.94,3.62,veryLow,,veryLow,veryLow
+Somalia,1,,2,,8,—,44.24,—,veryLow,,low,
+Libya,1,,2,1,10,—,40.22,1.95,veryLow,,low,veryLow
+South Sudan,1,,2,,1,—,50.62,—,veryLow,,low,
+Afghanistan,1,,1,1,8,—,39.75,2.85,veryLow,,veryLow,veryLow
+Yemen,1,,1,1,9,—,32.78,1.95,veryLow,,veryLow,veryLow
+Palestine,,,1,1,—,—,37.86,3.83,,,veryLow,veryLow
+Syria,1,,1,1,1,—,27.22,1.43,veryLow,,veryLow,veryLow
+North Korea,1,1,1,1,3,2.9,21.72,1.08,veryLow,veryLow,veryLow,veryLow
